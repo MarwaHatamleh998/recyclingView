@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recycling Guide</string>
+
+    <string name="plastic_desc">Plastic can be recycled after cleaning.</string>
+    <string name="paper_desc">Paper is recyclable and eco-friendly.</string>
+    <string name="glass_desc">Glass can be recycled many times.</string>
+
+    <string name="not_found">Item not found</string>
+</resources>
